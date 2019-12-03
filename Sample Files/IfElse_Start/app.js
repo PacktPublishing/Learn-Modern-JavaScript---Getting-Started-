@@ -1,0 +1,1 @@
+//Use the date object and print out the day of the week

@@ -1,0 +1,1 @@
+//Write a loop that will display any number between 1 - 100 that is a multiple of both 3 and 5. 
